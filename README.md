@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Big Data, Machine Learning and data science**
 
+- 👨‍💻 All of my projects are available at [https://github.com/Yutianxinw/TrendMarket---Kepler](https://github.com/Yutianxinw/TrendMarket---Kepler)
+
 - 📫 How to reach me **wang9207@umn.edu**
 
 <h3 align="left">Connect with me:</h3>
